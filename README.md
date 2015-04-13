@@ -1,2 +1,1 @@
-# colstrom.github.io
-GitHub Page
+# [colstrom.github.io](https://colstrom.github.io/)
